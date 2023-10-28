@@ -8,7 +8,7 @@ const repocount = 50
 
 console.log(name + repocount + "Value"); // purane zamane me aese likha jata tha
 
-let vards = 'hello my name is ${myname} and my ${repocount}'
+let vards = `hello my name is ${myname} and my ${repocount}`
 
 console.log(name[0]);
 
