@@ -15,6 +15,8 @@ one()
 
 /////////////////////////////////////////
 
+// myfunc()       yaha pr aap ese call nhi kr skte upar myfunc ke agar neche ke tarah declare kr rhe ho toh  
+
 const myfunc = function(num){                      // function ko aese bhi declare kr skte hai
     return num + 2
 }
