@@ -104,12 +104,12 @@ for(const item in array2){
     console.log(array2[item])
 }
 
-/////////////////////////////////////
+/////////////////////////////////////forEach method ///////////////////////////////////////////
 
 const array3 = ["ishan" , "jouli" , "dfj" , "lfnle"]
 
 array3.forEach(function(val){
-    console.log(val)                                  // foreach method me apko ek function as a parameter dena hota hai
+    console.log(val)                                  // foreach method me apko ek function as a parameter dena hota hai i.e ek callback dena hota hai
 })
 
 array3.forEach(function(val , index , arr){
